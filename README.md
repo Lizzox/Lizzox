@@ -1,35 +1,26 @@
 <div align="center">
-
-# 🌴 Hi, im Lizzox!
-
-[![Discord](https://img.shields.io/badge/Discord-Lizzox%231626-blueviolet)](https://discord.gg/your-discord-server-link)
-[![Website](https://img.shields.io/badge/Website-Portfolio-brightgreen)](https://your-website-url.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%40Lizzox-1DA1F2)](https://twitter.com/your-twitter-handle)
-
+  <img src="https://cdn.discordapp.com/attachments/1057080582112288799/1102198526382973009/Lizzox_Github_Banner_v2.png" alt="Lizzox GitHub Banner" width="950px">
 </div>
 
-## About Me
+### <div align="center">I'm Lizzox, a Discord Bot Developer! 🚀</div>
+### <div align="center">[Click here for more info](https://bit.ly/lizzox-more-info)</div>
 
-I'm a passionate developer who loves coding simple Discord bots using Node.js. Constantly exploring new possibilities and expanding my knowledge in the world of programming. My aim is to create fun and useful bots for Discord communities.
+***
 
-## Projects
+- 🛠️ I’m currently working on EchoLogs. It's a multi-functional Discord logging bot that aims to provide comprehensive logging capabilities for Discord servers.
+  
 
-Here are some of the projects I'm currently working on:
+- 🪜 I’m coding in **JavaScript** and **Aoi.js**.
+  <br/>
+  
+***
 
-### [🌴] Aurora Island - FiveM
+## 🪵 • My Projects
 
-Aurora Island is an immersive FiveM server that provides a unique role-playing experience in a beautiful island setting. Join us and explore the vast landscapes, engage in thrilling activities, and connect with a friendly community. Let's create memorable moments together!
+> 📜: EchoLogs (In development) - EchoLogs is a multifunctional logging bot written in Aoi.js that offers a wide range of Discord logging options, including server activity tracking, message and moderation logging, user join and leave tracking, and customizable settings.
 
-### Hydrex Discord Bot
+> 🐸: Hydrex (In development) - Hydrex is a multifunction Discord bot written in JavaScript that offers a wide range of options, including moderation, fun, utility, and system management, allowing you to enhance your server experience and maintain a harmonious and enjoyable community.
 
-Hydrex is my own Discord bot that I developed using Node.js. It's packed with exciting features to enhance your server experience, including moderation tools, fun commands, and utility functions. Feel free to invite Hydrex to your server and see what it can do!
-
-## Get in Touch
-
-I'm always excited to connect with fellow developers and Discord enthusiasts. Feel free to reach out to me on Discord or through other platforms:
-
-- Discord: Lizzox#1626
-- Twitter: [@Lizzox](https://twitter.com/your-twitter-handle)
-- Website: [Your Portfolio Website](https://your-website-url.com)
-
-Let's collaborate, share ideas, and build awesome projects together!
+***
+## ☎️ • Contact me
+> ✨: If you need help with any of my projects, feel free to DM me on Discord.
