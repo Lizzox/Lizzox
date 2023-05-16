@@ -10,7 +10,7 @@
 - 🛠️ I’m currently working on EchoLogs. It's a multi-functional Discord logging bot that aims to provide comprehensive logging capabilities for Discord servers.
   
 
-- 🪜 I’m coding in **JavaScript** and **Aoi.js**.
+- 🪜 I am currently learning **JavaScript** and **Aoi.js**.
   <br/>
   
 ***
