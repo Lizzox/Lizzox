@@ -17,6 +17,9 @@
 
 ## 🪵 • My Projects
 
+
+> 🌐: @PingCord - [@PingCord](https://bit.ly/pingcord) is a ping-farming Discord server where users accumulate pings by utilizing bots.
+
 > 📜: EchoLogs (In development) - EchoLogs is a multifunctional logging bot written in Aoi.js that offers a wide range of Discord logging options, including server activity tracking, message and moderation logging, user join and leave tracking, and customizable settings.
 
 > 🐸: Hydrex (In development) - Hydrex is a multifunction Discord bot written in JavaScript that offers a wide range of options, including moderation, fun, utility, and system management, allowing you to enhance your server experience and maintain a harmonious and enjoyable community.
