@@ -2,7 +2,7 @@
   <img src="https://us-east-1.tixte.net/uploads/lizzox.tixte.co/GitHub_Lizzox_Banner.png" alt="Lizzox GitHub Banner" style="max-width: 950px;">
 </div>
 
-<h2 style="text-align: center; font-size: 24px;">Hi, I'm Lizzox, a Discord Bot Developer! 🚀</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=HEAVITAS&pause=1000&color=6300F7&center=true&vCenter=true&random=true&width=435&lines=Hobby+Developer;Internet+Rambo;Community+Management;Javascript+%2B+Aoi.js)](https://git.io/typing-svg)
 <p style="text-align: center;"><a href="https://bit.ly/lizzox-more-info">Learn more about me</a></p>
 
 <hr style="border: 1px solid #ccc;">
