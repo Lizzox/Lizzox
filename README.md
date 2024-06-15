@@ -8,7 +8,7 @@
 <hr style="border: 1px solid #ccc;">
 
 <h3 style="text-align: center; font-size: 20px;">What I'm up to:</h3>
-<p style="text-align: center;">🛠️ I'm currently working on <a href="https://top.gg/bot/1159927838053503026">WaveTunes</a>.</p>
+<p style="text-align: center;">🛠️ I'm currently working on <a href="https://top.gg/bot/1159927838053503026">WaveTunes (Discontinued)</a>.</p>
 <p style="text-align: center;">🪜 I am currently learning <strong>JavaScript</strong> and <strong>Aoi.js</strong>.</p>
 
 <hr style="border: 1px solid #ccc;">
@@ -19,4 +19,4 @@
 <hr style="border: 1px solid #ccc;">
 
 <h3 style="text-align: center; font-size: 20px;">Contact me:</h3>
-<p style="text-align: center;">✨ If you need help with any of my projects, feel free to DM me </p>
+<p style="text-align: center;">✨ If you need help with any of my projects, feel free to DM me. </p>
