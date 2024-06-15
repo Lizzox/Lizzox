@@ -19,4 +19,4 @@
 <hr style="border: 1px solid #ccc;">
 
 <h3 style="text-align: center; font-size: 20px;">Contact me:</h3>
-<p style="text-align: center;">✨ If you need help with any of my projects, feel free to DM me or join my <a href="https://bit.ly/lizzox_dev">Discord</a> server.</p>
+<p style="text-align: center;">✨ If you need help with any of my projects, feel free to DM me </p>
