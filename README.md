@@ -3,7 +3,7 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=HEAVITAS&pause=1000&color=6300F7&center=true&vCenter=true&random=true&width=435&lines=Hobby+Developer;Internet+Rambo;Community+Management;Javascript+%2B+Aoi.js)](https://git.io/typing-svg)
-<p style="text-align: center;"><a href="https://bit.ly/lizzox-more-info">Learn more about me</a></p>
+
 
 <hr style="border: 1px solid #ccc;">
 
